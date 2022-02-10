@@ -1,0 +1,14 @@
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\obj\Debug\Anket.csproj.AssemblyReference.cache
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\obj\Debug\Anket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\obj\Debug\Anket.csproj.GenerateResource.cache
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\obj\Debug\Anket.csproj.CoreCompileInputs.cache
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\obj\Debug\Anket.csproj.CopyComplete
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Workm\Desktop\anket\WindowsFormsApp3\obj\Debug\Anket.Form1.resources
